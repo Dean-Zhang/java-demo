@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db0baf31-183f-4697-9695-0f377ffdf37a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/JSONTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JSONTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,12 +39,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="gitignore" value="1" />
           <entry key="java" value="3" />
           <entry key="xml" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="Git file" value="1" />
           <entry key="JAVA" value="3" />
           <entry key="XML" value="4" />
         </counts>
@@ -53,10 +56,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/JSONTest.java">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+            <state relative-caret-position="80">
+              <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -90,6 +93,7 @@
         <option value="$USER_HOME$/git/ctsplus/hrrt/src/com/sinosoft/dfs/rest/FastRestService.java" />
         <option value="$USER_HOME$/git/ctsplus/hrrt/src/com/eking/ocean/TestMain.java" />
         <option value="$PROJECT_DIR$/src/JSONTest.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -129,31 +133,21 @@
             <path>
               <item name="java-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-demo" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-demo" type="462c0819:PsiDirectoryNode" />
-              <item name=".settings" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-demo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534737379856" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534740889081" />
     <property name="last_opened_file_path" value="$USER_HOME$/git/ctsplus/hrrt" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -265,7 +259,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17158000" />
+    <option name="totallyTimeSpent" value="17227000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -280,7 +274,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.70155585" visible="true" weight="0.1621984" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.70155585" visible="true" weight="0.16420911" />
       <window_info id="Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -437,9 +431,6 @@
     <entry file="file://$USER_HOME$/git/ctsplus/hrrt/src/com/sinosoft/dfs/rest/FastRestEntity.java" />
     <entry file="jar://$USER_HOME$/git/ctsplus/hrrt/lib/jersey-common-2.7.jar!/org/glassfish/jersey/message/internal/OutboundJaxrsResponse.class" />
     <entry file="jar://$USER_HOME$/git/ctsplus/hrrt/lib/javax.ws.rs-api-2.0.jar!/javax/ws/rs/core/Response.class" />
-    <entry file="file://$USER_HOME$/git/ctsplus/hrrt/src/com/sinosoft/dfs/rest/FastRestService.java" />
-    <entry file="jar://$USER_HOME$/git/ctsplus/hrrt/addLib/aws-java-sdk-core-1.10.77.jar!/com/amazonaws/SystemDefaultDnsResolver.class" />
-    <entry file="file://$USER_HOME$/git/ctsplus/hrrt/src/com/eking/ocean/TestMain.java" />
     <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -451,14 +442,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JSONTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+        <state relative-caret-position="80">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/git/ctsplus/hrrt/src/com/sinosoft/dfs/rest/FastRestService.java" />
     <entry file="jar://$USER_HOME$/git/ctsplus/hrrt/addLib/aws-java-sdk-core-1.10.77.jar!/com/amazonaws/SystemDefaultDnsResolver.class" />
     <entry file="file://$USER_HOME$/git/ctsplus/hrrt/src/com/eking/ocean/TestMain.java" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
