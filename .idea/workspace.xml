@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db0baf31-183f-4697-9695-0f377ffdf37a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/JSONTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JSONTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -457,6 +456,9 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/git/ctsplus/hrrt/src/com/sinosoft/dfs/rest/FastRestService.java" />
+    <entry file="jar://$USER_HOME$/git/ctsplus/hrrt/addLib/aws-java-sdk-core-1.10.77.jar!/com/amazonaws/SystemDefaultDnsResolver.class" />
+    <entry file="file://$USER_HOME$/git/ctsplus/hrrt/src/com/eking/ocean/TestMain.java" />
   </component>
   <component name="masterDetails">
     <states>
